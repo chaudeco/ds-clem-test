@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "DS test",
   "license": "MIT",
-  "repository": "github:divriots/starter-furious",
+  "repository": "github:chaudeco/ds-clem-test",
   "homepage": "https://backlight.dev/preview/xS11aQmjMLIvr5PU5Mru/",
   "type": "module",
   "main": "index.js",
